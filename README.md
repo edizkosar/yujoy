@@ -66,4 +66,4 @@ app/src/main/java/com/yujoy/
 
 ## Developed By
 
-Ediz — Computer Engineering, Yeditepe University
+Ediz Koşar — Information Systems and Technologies, Yeditepe University
